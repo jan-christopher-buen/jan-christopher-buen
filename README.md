@@ -8,17 +8,71 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 
 ### Skills
 
-HTML · CSS (Flexbox and Grid) · JavaScript · DOM manipulation · Git and GitHub · Jest (running tests)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Projects
 
-| Project | What it is | Built with | Live |
-| --- | --- | --- | --- |
-| [Library](https://github.com/jan-christopher-buen/odin-library) | Add, remove, and track books you've read | JavaScript, constructors, `<dialog>` | [Open](https://jan-christopher-buen.github.io/odin-library/) |
-| [Admin Dashboard](https://github.com/jan-christopher-buen/odin-admin-dashboard) | A dashboard page layout | CSS Grid, Flexbox | [Open](https://jan-christopher-buen.github.io/odin-admin-dashboard/) |
-| [Sign-up Form](https://github.com/jan-christopher-buen/odin-sign-up-form) | A sign-up page with form validation | HTML forms, CSS | [Open](https://jan-christopher-buen.github.io/odin-sign-up-form/) |
-| [Calculator](https://github.com/jan-christopher-buen/odin-calculator) | An on-screen calculator | JavaScript, Flexbox | [Open](https://jan-christopher-buen.github.io/odin-calculator/) |
-| [Etch-a-Sketch](https://github.com/jan-christopher-buen/odin-etch-a-sketch) | A browser sketchpad with a resizable grid | JavaScript, DOM | [Open](https://jan-christopher-buen.github.io/odin-etch-a-sketch/) |
-| [Rock Paper Scissors](https://github.com/jan-christopher-buen/odin-rock-paper-scissors) | A game against the computer, first to 5 wins | JavaScript, DOM | [Open](https://jan-christopher-buen.github.io/odin-rock-paper-scissors/) |
-| [Landing Page](https://github.com/jan-christopher-buen/odin-landing-page) | A landing page from a design | HTML, Flexbox | [Open](https://jan-christopher-buen.github.io/odin-landing-page/) |
-| [Recipes](https://github.com/jan-christopher-buen/odin-recipes) | A small recipe website (my first project) | HTML | [Open](https://jan-christopher-buen.github.io/odin-recipes/) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://jan-christopher-buen.github.io/odin-library/"><img src="images/library.png" alt="Library app screenshot"></a>
+      <h4>📚 Library</h4>
+      <p>Add, remove, and track books you've read.<br><sub>JavaScript · constructors · &lt;dialog&gt;</sub></p>
+      <a href="https://jan-christopher-buen.github.io/odin-library/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-library">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://jan-christopher-buen.github.io/odin-admin-dashboard/"><img src="images/admin-dashboard.png" alt="Admin Dashboard screenshot"></a>
+      <h4>📊 Admin Dashboard</h4>
+      <p>A dashboard page layout.<br><sub>CSS Grid · Flexbox</sub></p>
+      <a href="https://jan-christopher-buen.github.io/odin-admin-dashboard/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-admin-dashboard">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://jan-christopher-buen.github.io/odin-sign-up-form/"><img src="images/sign-up-form.png" alt="Sign-up Form screenshot"></a>
+      <h4>📝 Sign-up Form</h4>
+      <p>A sign-up page with form validation.<br><sub>HTML forms · CSS</sub></p>
+      <a href="https://jan-christopher-buen.github.io/odin-sign-up-form/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-sign-up-form">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://jan-christopher-buen.github.io/odin-calculator/"><img src="images/calculator.png" alt="Calculator screenshot"></a>
+      <h4>🧮 Calculator</h4>
+      <p>An on-screen calculator.<br><sub>JavaScript · Flexbox</sub></p>
+      <a href="https://jan-christopher-buen.github.io/odin-calculator/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-calculator">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://jan-christopher-buen.github.io/odin-etch-a-sketch/"><img src="images/etch-a-sketch.png" alt="Etch-a-Sketch screenshot"></a>
+      <h4>🎨 Etch-a-Sketch</h4>
+      <p>A browser sketchpad with a resizable grid.<br><sub>JavaScript · DOM</sub></p>
+      <a href="https://jan-christopher-buen.github.io/odin-etch-a-sketch/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-etch-a-sketch">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://jan-christopher-buen.github.io/odin-rock-paper-scissors/"><img src="images/rock-paper-scissors.png" alt="Rock Paper Scissors screenshot"></a>
+      <h4>✊ Rock Paper Scissors</h4>
+      <p>A game against the computer, first to 5 wins.<br><sub>JavaScript · DOM</sub></p>
+      <a href="https://jan-christopher-buen.github.io/odin-rock-paper-scissors/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-rock-paper-scissors">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://jan-christopher-buen.github.io/odin-landing-page/"><img src="images/landing-page.png" alt="Landing Page screenshot"></a>
+      <h4>🌐 Landing Page</h4>
+      <p>A landing page from a design.<br><sub>HTML · Flexbox</sub></p>
+      <a href="https://jan-christopher-buen.github.io/odin-landing-page/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-landing-page">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://jan-christopher-buen.github.io/odin-recipes/"><img src="images/recipes.png" alt="Recipes website screenshot"></a>
+      <h4>🍲 Recipes</h4>
+      <p>A small recipe website (my first project).<br><sub>HTML</sub></p>
+      <a href="https://jan-christopher-buen.github.io/odin-recipes/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-recipes">Code</a>
+    </td>
+  </tr>
+</table>
