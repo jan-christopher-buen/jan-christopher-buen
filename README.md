@@ -1,8 +1,8 @@
 ## Hi, I'm JC 👋
 
-I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build a project for every new topic and publish each one live.
+I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build projects to practice each new topic, sharing the code and live demos where applicable.
 
-- 🌱 Currently learning: asynchronous JavaScript, API integration, and error handling through The Odin Project
+- 🌱 Currently learning: unit testing with Jest and test-driven development (TDD) through The Odin Project
 - 🎯 Goal: to work as a web developer on a team
 - 🛠️ Tools I use every day: VS Code, Git, GitHub, and Linux (WSL)
 
@@ -16,10 +16,22 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - **JavaScript:** ES modules, DOM manipulation, localStorage, promises, async/await, Fetch API, JSON processing, and error handling.
+- **Testing practice:** unit tests with Jest, Babel for ES module conversion, testing public behavior, and practicing the red/green/refactor cycle.
 - **Frontend workflow:** npm, Webpack, responsive CSS, basic accessibility, automated testing, and GitHub Pages deployment with GitHub Actions.
+
+### Learning Projects
+
+#### Testing Practice
+
+[Code](https://github.com/jan-christopher-buen/odin-testing-practice)
+
+JavaScript exercises built using a test-first workflow, with 39 passing tests across five suites. Covers string functions, calculator operations, a Caesar cipher, and array analysis.
+
+**Tools:** Jest, Babel, npm · **Concepts practiced:** unit testing, ES modules, public behavior testing, and red/green/refactor.
 
 ### Projects
 
