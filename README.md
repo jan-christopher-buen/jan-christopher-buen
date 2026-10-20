@@ -2,7 +2,7 @@
 
 I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build a project for every new topic and publish each one live.
 
-- 🌱 Currently learning: JavaScript (objects, factory functions, and organizing code with modules)
+- 🌱 Currently learning: JavaScript application structure, Webpack, and localStorage
 - 🎯 Goal: to work as a web developer on a team
 - 🛠️ Tools I use every day: VS Code, Git, GitHub, and Linux (WSL)
 
