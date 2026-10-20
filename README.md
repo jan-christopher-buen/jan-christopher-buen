@@ -25,6 +25,14 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 
 ### Learning Projects
 
+#### Recursion
+
+[Code](https://github.com/jan-christopher-buen/odin-recursion)
+
+Iterative and recursive Fibonacci sequences, plus recursive merge sort that preserves duplicates and leaves the input unchanged. Runs in the terminal with Node.js and includes automated checks using built-in assertions.
+
+**Tools:** JavaScript, Node.js, npm · **Concepts practiced:** recursion, base cases, divide and conquer, input validation, and time and space complexity.
+
 #### Testing Practice
 
 [Code](https://github.com/jan-christopher-buen/odin-testing-practice)
