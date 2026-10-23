@@ -25,6 +25,14 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 
 ### Learning Projects
 
+#### Binary Search Trees
+
+[Code](https://github.com/jan-christopher-buen/odin-binary-search-trees)
+
+An initially balanced binary search tree with lookup, insertion, successor-based deletion, four traversal orders, height and depth queries, and explicit rebalancing. Runs in the terminal with Node.js and includes 36 deterministic tests using the built-in test runner.
+
+**Tools:** JavaScript, Node.js, npm · **Concepts practiced:** BST ordering, node references, breadth-first and depth-first traversal, subtree balance, rebalancing, and time and space complexity.
+
 #### HashMap and HashSet
 
 [Code](https://github.com/jan-christopher-buen/odin-hashmap)
