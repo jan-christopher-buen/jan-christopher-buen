@@ -6,16 +6,6 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 - 🎯 Goal: to work as a web developer on a team
 - 🛠️ Tools I use every day: VS Code, Git, GitHub, and Linux (WSL)
 
-### Latest Project: Battleship
-
-[Live demo](https://jan-christopher-buen.github.io/odin-battleship/) · [Code](https://github.com/jan-christopher-buen/odin-battleship)
-
-A naval strategy game with drag-and-drop fleet placement, rotation, click/tap and keyboard alternatives, and two ways to play: against a computer that targets adjacent squares after a hit, or with a friend using private setup and pass-device screens.
-
-Built with vanilla JavaScript classes and ES modules, with game rules separated from rendering. The domain models and turn controller have 82 passing tests; the interface includes coordinate labels, keyboard navigation, live status announcements, and restart protection against stale computer responses.
-
-**Tools:** JavaScript, Jest, Babel, Webpack, npm, GitHub Actions, GitHub Pages · **Concepts practiced:** test-driven development, atomic placement validation, turn-state management, filtered player views, event delegation, and timer lifecycle management.
-
 ### Skills
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -88,6 +78,13 @@ JavaScript exercises built using a test-first workflow, with 39 passing tests ac
 ### Projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🚢 Battleship</h4>
+      <p>A naval strategy game with drag-and-drop fleet placement, rotation, keyboard and touch alternatives, an adjacent-targeting computer opponent, and local two-player mode with private pass-device screens. Game rules and turn management are covered by 82 passing domain tests.<br><sub>JavaScript classes · ES modules · Jest · Babel · Webpack · GitHub Actions</sub></p>
+      <a href="https://jan-christopher-buen.github.io/odin-battleship/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-battleship">Code</a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-weather-app/"><img src="images/weather-app.png" alt="Weather App showing current conditions and a five-day forecast for Manila" width="400" height="250"></a>
