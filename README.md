@@ -2,9 +2,19 @@
 
 I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build projects to practice each new topic, sharing the code and live demos where applicable.
 
-- 🌱 Currently learning: graph traversal and shortest-path algorithms through The Odin Project
+- 🌱 Currently practicing: test-driven JavaScript, accessible interfaces, and state-driven game design through The Odin Project
 - 🎯 Goal: to work as a web developer on a team
 - 🛠️ Tools I use every day: VS Code, Git, GitHub, and Linux (WSL)
+
+### Latest Project: Battleship
+
+[Live demo](https://jan-christopher-buen.github.io/odin-battleship/) · [Code](https://github.com/jan-christopher-buen/odin-battleship)
+
+A naval strategy game with drag-and-drop fleet placement, rotation, click/tap and keyboard alternatives, and two ways to play: against a computer that targets adjacent squares after a hit, or with a friend using private setup and pass-device screens.
+
+Built with vanilla JavaScript classes and ES modules, with game rules separated from rendering. The domain models and turn controller have 82 passing tests; the interface includes coordinate labels, keyboard navigation, live status announcements, and restart protection against stale computer responses.
+
+**Tools:** JavaScript, Jest, Babel, Webpack, npm, GitHub Actions, GitHub Pages · **Concepts practiced:** test-driven development, atomic placement validation, turn-state management, filtered player views, event delegation, and timer lifecycle management.
 
 ### Skills
 
@@ -20,10 +30,10 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- **JavaScript:** ES modules, DOM manipulation, localStorage, promises, async/await, Fetch API, JSON processing, and error handling.
-- **Testing practice:** unit tests with Jest and Node.js's built-in test runner, strict assertions, testing public behavior, independent shortest-path verification, and practicing the red/green/refactor cycle. Babel supports ES module conversion in Jest projects.
+- **JavaScript:** classes, ES modules, DOM manipulation, event delegation, application state, localStorage, promises, async/await, Fetch API, JSON processing, and error handling.
+- **Testing practice:** unit tests with Jest and Node.js's built-in test runner, strict assertions, testing public behavior, DOM-independent game models and turn controllers, independent shortest-path verification, and practicing the red/green/refactor cycle. Babel supports ES module conversion in Jest projects.
 - **Data structures and algorithms:** linked lists, hash maps and sets, binary search trees, recursion, BFS and DFS traversal, shortest paths, and time and space complexity.
-- **Frontend workflow:** npm, Webpack, responsive CSS, basic accessibility, automated testing, and GitHub Pages deployment with GitHub Actions.
+- **Frontend workflow:** npm, Webpack, responsive CSS, keyboard navigation, live status announcements, drag-and-drop with alternative controls, automated testing, and GitHub Pages deployment with GitHub Actions.
 
 ### Learning Projects
 
