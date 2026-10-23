@@ -2,7 +2,7 @@
 
 I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build projects to practice each new topic, sharing the code and live demos where applicable.
 
-- 🌱 Currently learning: unit testing with Jest and test-driven development (TDD) through The Odin Project
+- 🌱 Currently learning: common data structures and algorithms through The Odin Project
 - 🎯 Goal: to work as a web developer on a team
 - 🛠️ Tools I use every day: VS Code, Git, GitHub, and Linux (WSL)
 
@@ -24,6 +24,14 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 - **Frontend workflow:** npm, Webpack, responsive CSS, basic accessibility, automated testing, and GitHub Pages deployment with GitHub Actions.
 
 ### Learning Projects
+
+#### Linked Lists
+
+[Code](https://github.com/jan-christopher-buen/odin-linked-lists)
+
+A singly linked list built with JavaScript classes and ES modules, including search, indexed insertion and removal, and string formatting. Runs in the terminal with Node.js and includes 15 automated tests using the built-in test runner.
+
+**Tools:** JavaScript, Node.js, npm · **Concepts practiced:** nodes and references, iterative traversal, link updates, index validation, and time and space complexity.
 
 #### Recursion
 
