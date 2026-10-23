@@ -2,7 +2,7 @@
 
 I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build projects to practice each new topic, sharing the code and live demos where applicable.
 
-- 🌱 Currently learning: common data structures and algorithms through The Odin Project
+- 🌱 Currently learning: graph traversal and shortest-path algorithms through The Odin Project
 - 🎯 Goal: to work as a web developer on a team
 - 🛠️ Tools I use every day: VS Code, Git, GitHub, and Linux (WSL)
 
@@ -11,6 +11,7 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -20,10 +21,19 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - **JavaScript:** ES modules, DOM manipulation, localStorage, promises, async/await, Fetch API, JSON processing, and error handling.
-- **Testing practice:** unit tests with Jest, Babel for ES module conversion, testing public behavior, and practicing the red/green/refactor cycle.
+- **Testing practice:** unit tests with Jest and Node.js's built-in test runner, strict assertions, testing public behavior, independent shortest-path verification, and practicing the red/green/refactor cycle. Babel supports ES module conversion in Jest projects.
+- **Data structures and algorithms:** linked lists, hash maps and sets, binary search trees, recursion, BFS and DFS traversal, shortest paths, and time and space complexity.
 - **Frontend workflow:** npm, Webpack, responsive CSS, basic accessibility, automated testing, and GitHub Pages deployment with GitHub Actions.
 
 ### Learning Projects
+
+#### Knights Travails
+
+[Code](https://github.com/jan-christopher-buen/odin-knights-travails)
+
+Finds one shortest legal knight path between any two squares on a standard 8-by-8 chessboard using breadth-first search. Runs in the terminal with Node.js, validates inputs without modifying them, and verifies all 4,096 start/destination pairs against independent Floyd–Warshall reference distances.
+
+**Tools:** JavaScript, Node.js, npm, node:test · **Concepts practiced:** implicit graphs, BFS layers, visited tracking, predecessor reconstruction, deterministic tie-breaking, and shortest-path verification.
 
 #### Binary Search Trees
 
