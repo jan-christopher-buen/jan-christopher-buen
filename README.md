@@ -25,6 +25,14 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 
 ### Learning Projects
 
+#### HashMap and HashSet
+
+[Code](https://github.com/jan-christopher-buen/odin-hashmap)
+
+Hash map and key-only hash set implementations with linked collision chains, capacity doubling, and entry rehashing. Runs in the terminal with Node.js and includes 31 automated tests using the built-in test runner.
+
+**Tools:** JavaScript, Node.js, npm · **Concepts practiced:** hashing, buckets, separate chaining, load factor, rehashing, and expected, worst-case, and amortized complexity.
+
 #### Linked Lists
 
 [Code](https://github.com/jan-christopher-buen/odin-linked-lists)
