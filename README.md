@@ -2,7 +2,7 @@
 
 I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build projects to practice each new topic, sharing the code and live demos where applicable.
 
-- 🌱 Currently practicing: test-driven JavaScript, accessible interfaces, and state-driven game design through The Odin Project
+- 🌱 Currently practicing: React components, props, controlled forms, and state management through The Odin Project
 - 🎯 Goal: to work as a web developer on a team
 - 🛠️ Tools I use every day: VS Code, Git, GitHub, and Linux (WSL)
 
@@ -11,6 +11,8 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -21,9 +23,18 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - **JavaScript:** classes, ES modules, DOM manipulation, event delegation, application state, localStorage, promises, async/await, Fetch API, JSON processing, and error handling.
+- **React:** function components, JSX, props, controlled inputs, useState, lifting state, immutable nested updates, event handling, and conditional rendering.
 - **Testing practice:** unit tests with Jest and Node.js's built-in test runner, strict assertions, testing public behavior, DOM-independent game models and turn controllers, independent shortest-path verification, and practicing the red/green/refactor cycle. Babel supports ES module conversion in Jest projects.
 - **Data structures and algorithms:** linked lists, hash maps and sets, binary search trees, recursion, BFS and DFS traversal, shortest paths, and time and space complexity.
-- **Frontend workflow:** npm, Webpack, responsive CSS, keyboard navigation, live status announcements, drag-and-drop with alternative controls, automated testing, and GitHub Pages deployment with GitHub Actions.
+- **Frontend workflow:** npm, Vite, Webpack, ESLint, Prettier, responsive CSS, keyboard navigation, live status announcements, drag-and-drop with alternative controls, automated testing, GitHub Pages deployment with GitHub Actions, and Vercel deployment from GitHub.
+
+### Latest Project: CV Studio
+
+[Live demo](https://odin-cv-application-bice.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-cv-application)
+
+My first React project: a CV builder with personal, education, and practical experience forms, a formatted preview, and repeatable editing that preserves entered values. Includes required-field and date-order validation, responsive layouts, and keyboard focus support. Deployed on Vercel; CV data stays in memory and clears on refresh.
+
+**Tools:** React, JavaScript, Vite, CSS, ESLint, Prettier · **Concepts practiced:** component composition, controlled inputs, shared state, immutable updates, props, and conditional rendering.
 
 ### Learning Projects
 
