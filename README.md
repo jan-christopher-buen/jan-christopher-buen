@@ -80,95 +80,100 @@ JavaScript exercises built using a test-first workflow, with 39 passing tests ac
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://jan-christopher-buen.github.io/odin-homepage/"><img src="images/homepage.png" alt="Homepage showing the illustrated introduction and About me panel" width="400" height="250"></a>
+      <h4>🏠 Homepage</h4>
+      <p>A responsive portfolio-style homepage with an illustrated introduction, project showcase, and GitHub contact link.<br><sub>HTML · CSS Grid · Flexbox · responsive design</sub></p>
+      <a href="https://jan-christopher-buen.github.io/odin-homepage/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-homepage">Code</a>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-battleship/"><img src="images/battleship.png" alt="Battleship showing your fleet and concealed enemy waters" width="400" height="250"></a>
       <h4>🚢 Battleship</h4>
       <p>A naval strategy game with drag-and-drop fleets, a computer opponent, and private local two-player turns.<br><sub>JavaScript · Jest · Babel · Webpack</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-battleship/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-battleship">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-weather-app/"><img src="images/weather-app.png" alt="Weather App showing current conditions and a five-day forecast for Manila" width="400" height="250"></a>
       <h4>🌦️ Weather App</h4>
       <p>Search locations for current weather and a five-day forecast, with loading/error states and a Celsius/Fahrenheit toggle.<br><sub>JavaScript · async/await · Fetch API · Visual Crossing · Webpack</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-weather-app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-weather-app">Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-todo-list/"><img src="images/todo-list.png" alt="Todo List app with project navigation and a completed task" width="400" height="250"></a>
       <h4>✅ Todo List</h4>
       <p>Organize todos into projects with due dates, priorities, editing, and completion tracking.<br><sub>JavaScript · factory functions · Webpack · localStorage</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-todo-list/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-todo-list">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-restaurant-page/"><img src="images/restaurant-page.png" alt="Kusina restaurant website screenshot" width="400" height="250"></a>
       <h4>🍽️ Restaurant Page</h4>
       <p>A Filipino restaurant website with Home, Menu, and Contact pages.<br><sub>JavaScript · ES modules · Webpack · DOM</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-restaurant-page/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-restaurant-page">Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-tic-tac-toe/"><img src="images/tic-tac-toe.png" alt="Tic Tac Toe screenshot" width="400" height="250"></a>
       <h4>❌⭕ Tic Tac Toe</h4>
       <p>A two-player game with custom player names.<br><sub>JavaScript · factory functions · module pattern</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-tic-tac-toe/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-tic-tac-toe">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-library/"><img src="images/library.png" alt="Library app screenshot" width="400" height="250"></a>
       <h4>📚 Library</h4>
       <p>Add, remove, and track books you've read.<br><sub>JavaScript · constructors · &lt;dialog&gt;</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-library/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-library">Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-admin-dashboard/"><img src="images/admin-dashboard.png" alt="Admin Dashboard screenshot" width="400" height="250"></a>
       <h4>📊 Admin Dashboard</h4>
       <p>A dashboard page layout.<br><sub>CSS Grid · Flexbox</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-admin-dashboard/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-admin-dashboard">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-sign-up-form/"><img src="images/sign-up-form.png" alt="Sign-up Form screenshot" width="400" height="250"></a>
       <h4>📝 Sign-up Form</h4>
       <p>A sign-up page with form validation.<br><sub>HTML forms · CSS</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-sign-up-form/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-sign-up-form">Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-calculator/"><img src="images/calculator.png" alt="Calculator screenshot" width="400" height="250"></a>
       <h4>🧮 Calculator</h4>
       <p>An on-screen calculator.<br><sub>JavaScript · Flexbox</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-calculator/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-calculator">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-etch-a-sketch/"><img src="images/etch-a-sketch.png" alt="Etch-a-Sketch screenshot" width="400" height="250"></a>
       <h4>🎨 Etch-a-Sketch</h4>
       <p>A browser sketchpad with a resizable grid.<br><sub>JavaScript · DOM</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-etch-a-sketch/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-etch-a-sketch">Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-rock-paper-scissors/"><img src="images/rock-paper-scissors.png" alt="Rock Paper Scissors screenshot" width="400" height="250"></a>
       <h4>✊ Rock Paper Scissors</h4>
       <p>A game against the computer, first to 5 wins.<br><sub>JavaScript · DOM</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-rock-paper-scissors/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-rock-paper-scissors">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-landing-page/"><img src="images/landing-page.png" alt="Landing Page screenshot" width="400" height="250"></a>
       <h4>🌐 Landing Page</h4>
       <p>A landing page from a design.<br><sub>HTML · Flexbox</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-landing-page/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-landing-page">Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-recipes/"><img src="images/recipes.png" alt="Recipes website screenshot" width="400" height="250"></a>
       <h4>🍲 Recipes</h4>
       <p>A small recipe website (my first project).<br><sub>HTML</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-recipes/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-recipes">Code</a>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
