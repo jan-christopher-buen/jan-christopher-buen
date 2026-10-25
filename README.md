@@ -85,13 +85,13 @@ JavaScript exercises built using a test-first workflow, with 39 passing tests ac
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://odin-shopping-cart-lilac.vercel.app/"><img src="images/shopping-cart.png" alt="Common Goods storefront with its introduction and featured clothing and backpack" width="400" height="250"></a>
+      <a href="https://odin-shopping-cart-lilac.vercel.app/"><img src="images/shopping-cart.png" alt="Common Goods storefront with its introduction and featured clothing and backpack" width="400" height="240"></a>
       <h4>🛍️ Common Goods</h4>
       <p>Explore a live catalog of everyday goods.<br>Edit quantities and build a shared cart.<br>Includes route and interaction tests.<br><sub>React · Router · CSS Modules · Vitest</sub></p>
       <a href="https://odin-shopping-cart-lilac.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-shopping-cart">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://odin-memory-card-eta-silk.vercel.app/"><img src="images/memory-card.png" alt="Pokémon Memory showing twelve face-up Pokémon cards and current and best scores" width="400" height="250"></a>
+      <a href="https://odin-memory-card-eta-silk.vercel.app/"><img src="images/memory-card.png" alt="Pokémon Memory showing twelve face-up Pokémon cards and current and best scores" width="400" height="240"></a>
       <h4>🧠 Pokémon Memory</h4>
       <p>Remember Pokémon as the cards shuffle.<br>Track your current and best scores.<br>Includes replay and API retry states.<br><sub>React · JavaScript · Vite · PokéAPI</sub></p>
       <a href="https://odin-memory-card-eta-silk.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-memory-card">Code</a>
@@ -99,13 +99,13 @@ JavaScript exercises built using a test-first workflow, with 39 passing tests ac
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://odin-cv-application-bice.vercel.app/"><img src="images/cv-application.png" alt="CV Studio showing labeled personal information and education forms" width="400" height="250"></a>
+      <a href="https://odin-cv-application-bice.vercel.app/"><img src="images/cv-application.png" alt="CV Studio showing labeled personal information and education forms" width="400" height="240"></a>
       <h4>📄 CV Application</h4>
       <p>Build a CV from your personal details.<br>Add education and work experience.<br>Preview and edit your information.<br><sub>React · JavaScript · Vite · CSS</sub></p>
       <a href="https://odin-cv-application-bice.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-cv-application">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-homepage/"><img src="images/homepage.png" alt="Homepage showing the illustrated introduction and About me panel" width="400" height="250"></a>
+      <a href="https://jan-christopher-buen.github.io/odin-homepage/"><img src="images/homepage.png" alt="Homepage showing the illustrated introduction and About me panel" width="400" height="240"></a>
       <h4>🏠 Homepage</h4>
       <p>Explore a responsive portfolio homepage.<br>Browse the illustrated introduction.<br>View projects and the GitHub contact.<br><sub>HTML · CSS Grid · Flexbox</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-homepage/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-homepage">Code</a>
@@ -113,13 +113,13 @@ JavaScript exercises built using a test-first workflow, with 39 passing tests ac
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-battleship/"><img src="images/battleship.png" alt="Battleship showing your fleet and concealed enemy waters" width="400" height="250"></a>
+      <a href="https://jan-christopher-buen.github.io/odin-battleship/"><img src="images/battleship.png" alt="Battleship showing your fleet and concealed enemy waters" width="400" height="240"></a>
       <h4>🚢 Battleship</h4>
       <p>Place your fleet and find enemy ships.<br>Play against a computer opponent.<br>Or share private local two-player turns.<br><sub>JavaScript · Jest · Webpack</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-battleship/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-battleship">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-weather-app/"><img src="images/weather-app.png" alt="Weather App showing current conditions and a five-day forecast for Manila" width="400" height="250"></a>
+      <a href="https://jan-christopher-buen.github.io/odin-weather-app/"><img src="images/weather-app.png" alt="Weather App showing current conditions and a five-day forecast for Manila" width="400" height="240"></a>
       <h4>🌦️ Weather App</h4>
       <p>Search locations for current weather.<br>Explore the five-day weather forecast.<br>Switch Celsius and Fahrenheit units.<br><sub>JavaScript · Fetch API · Webpack</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-weather-app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-weather-app">Code</a>
@@ -127,13 +127,13 @@ JavaScript exercises built using a test-first workflow, with 39 passing tests ac
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-todo-list/"><img src="images/todo-list.png" alt="Todo List app with project navigation and a completed task" width="400" height="250"></a>
+      <a href="https://jan-christopher-buen.github.io/odin-todo-list/"><img src="images/todo-list.png" alt="Todo List app with project navigation and a completed task" width="400" height="240"></a>
       <h4>✅ Todo List</h4>
       <p>Keep your tasks organized by project.<br>Set due dates and choose priorities.<br>Edit tasks and track their completion.<br><sub>JavaScript · Webpack · localStorage</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-todo-list/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-todo-list">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-restaurant-page/"><img src="images/restaurant-page.png" alt="Kusina restaurant website screenshot" width="400" height="250"></a>
+      <a href="https://jan-christopher-buen.github.io/odin-restaurant-page/"><img src="images/restaurant-page.png" alt="Kusina restaurant website screenshot" width="400" height="240"></a>
       <h4>🍽️ Restaurant Page</h4>
       <p>Explore a Filipino restaurant website.<br>Browse the Home and Menu pages.<br>Find restaurant details under Contact.<br><sub>JavaScript · ES modules · Webpack</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-restaurant-page/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-restaurant-page">Code</a>
@@ -141,13 +141,13 @@ JavaScript exercises built using a test-first workflow, with 39 passing tests ac
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-tic-tac-toe/"><img src="images/tic-tac-toe.png" alt="Tic Tac Toe screenshot" width="400" height="250"></a>
+      <a href="https://jan-christopher-buen.github.io/odin-tic-tac-toe/"><img src="images/tic-tac-toe.png" alt="Tic Tac Toe screenshot" width="400" height="240"></a>
       <h4>❌⭕ Tic Tac Toe</h4>
       <p>Challenge a friend to Tic Tac Toe.<br>Enter custom names for both players.<br>Take turns on a shared game board.<br><sub>JavaScript · Factories · Modules</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-tic-tac-toe/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-tic-tac-toe">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-library/"><img src="images/library.png" alt="Library app screenshot" width="400" height="250"></a>
+      <a href="https://jan-christopher-buen.github.io/odin-library/"><img src="images/library.png" alt="Library app screenshot" width="400" height="240"></a>
       <h4>📚 Library</h4>
       <p>Keep a personal collection of books.<br>Add new entries or remove old ones.<br>Track which books you have read.<br><sub>JavaScript · Constructors · Dialog</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-library/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-library">Code</a>
@@ -155,13 +155,13 @@ JavaScript exercises built using a test-first workflow, with 39 passing tests ac
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-admin-dashboard/"><img src="images/admin-dashboard.png" alt="Admin Dashboard screenshot" width="400" height="250"></a>
+      <a href="https://jan-christopher-buen.github.io/odin-admin-dashboard/"><img src="images/admin-dashboard.png" alt="Admin Dashboard screenshot" width="400" height="240"></a>
       <h4>📊 Admin Dashboard</h4>
       <p>Explore an admin dashboard layout.<br>Browse its navigation and main panels.<br>Built to practice grid-based page design.<br><sub>HTML · CSS Grid · Flexbox</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-admin-dashboard/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-admin-dashboard">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-sign-up-form/"><img src="images/sign-up-form.png" alt="Sign-up Form screenshot" width="400" height="250"></a>
+      <a href="https://jan-christopher-buen.github.io/odin-sign-up-form/"><img src="images/sign-up-form.png" alt="Sign-up Form screenshot" width="400" height="240"></a>
       <h4>📝 Sign-up Form</h4>
       <p>Explore a styled account sign-up page.<br>Enter information in labeled fields.<br>Practice form layout and validation.<br><sub>HTML · Forms · CSS</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-sign-up-form/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-sign-up-form">Code</a>
@@ -169,13 +169,13 @@ JavaScript exercises built using a test-first workflow, with 39 passing tests ac
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-calculator/"><img src="images/calculator.png" alt="Calculator screenshot" width="400" height="250"></a>
+      <a href="https://jan-christopher-buen.github.io/odin-calculator/"><img src="images/calculator.png" alt="Calculator screenshot" width="400" height="240"></a>
       <h4>🧮 Calculator</h4>
       <p>Use an on-screen browser calculator.<br>Enter numbers and choose operations.<br>Built with JavaScript and Flexbox.<br><sub>JavaScript · HTML · Flexbox</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-calculator/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-calculator">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-etch-a-sketch/"><img src="images/etch-a-sketch.png" alt="Etch-a-Sketch screenshot" width="400" height="250"></a>
+      <a href="https://jan-christopher-buen.github.io/odin-etch-a-sketch/"><img src="images/etch-a-sketch.png" alt="Etch-a-Sketch screenshot" width="400" height="240"></a>
       <h4>🎨 Etch-a-Sketch</h4>
       <p>Draw in a browser-based sketchpad.<br>Resize the grid to change your canvas.<br>Practice JavaScript DOM interaction.<br><sub>JavaScript · HTML · DOM</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-etch-a-sketch/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-etch-a-sketch">Code</a>
@@ -183,13 +183,13 @@ JavaScript exercises built using a test-first workflow, with 39 passing tests ac
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-rock-paper-scissors/"><img src="images/rock-paper-scissors.png" alt="Rock Paper Scissors screenshot" width="400" height="250"></a>
+      <a href="https://jan-christopher-buen.github.io/odin-rock-paper-scissors/"><img src="images/rock-paper-scissors.png" alt="Rock Paper Scissors screenshot" width="400" height="240"></a>
       <h4>✊ Rock Paper Scissors</h4>
       <p>Play Rock Paper Scissors in a browser.<br>Choose a move against the computer.<br>Be the first player to reach five wins.<br><sub>JavaScript · HTML · DOM</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-rock-paper-scissors/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-rock-paper-scissors">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-landing-page/"><img src="images/landing-page.png" alt="Landing Page screenshot" width="400" height="250"></a>
+      <a href="https://jan-christopher-buen.github.io/odin-landing-page/"><img src="images/landing-page.png" alt="Landing Page screenshot" width="400" height="240"></a>
       <h4>🌐 Landing Page</h4>
       <p>Explore a landing page from a design.<br>Browse the content and page sections.<br>Built to practice HTML and Flexbox.<br><sub>HTML · CSS · Flexbox</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-landing-page/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-landing-page">Code</a>
@@ -197,7 +197,7 @@ JavaScript exercises built using a test-first workflow, with 39 passing tests ac
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-recipes/"><img src="images/recipes.png" alt="Recipes website screenshot" width="400" height="250"></a>
+      <a href="https://jan-christopher-buen.github.io/odin-recipes/"><img src="images/recipes.png" alt="Recipes website screenshot" width="400" height="240"></a>
       <h4>🍲 Recipes</h4>
       <p>Browse a small collection of recipes.<br>Open a recipe to read its instructions.<br>My first project in The Odin Project.<br><sub>HTML · Links · Lists</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-recipes/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-recipes">Code</a>
