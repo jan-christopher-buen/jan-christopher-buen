@@ -28,16 +28,6 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 - **Testing:** Vitest, React Testing Library, user-event, Jest, and Node.js's test runner.
 - **Foundations:** API integration, state management, accessibility, data structures, and algorithms.
 
-### Latest Project & Learning Progress
-
-**[Basic Informational Site](https://github.com/jan-christopher-buen/odin-basic-informational-site)** — my first Node.js project, built with Node's built-in modules, HTML, and CSS.
-
-- Serves Home, About, and Contact pages asynchronously through an HTTP server.
-- Uses explicit URL routing, a custom 404 page, and simple server error handling.
-- Practices back-end fundamentals after the introductory Node.js and debugging lessons in The Odin Project.
-
-I'm continuing through The Odin Project's Node.js curriculum, building on my JavaScript and React projects.
-
 ### Featured Projects
 
 <table>
@@ -93,10 +83,11 @@ I'm continuing through The Odin Project's Node.js curriculum, building on my Jav
 </details>
 
 <details>
-<summary><strong>Learning exercises — JavaScript, testing, and algorithms</strong></summary>
+<summary><strong>Learning projects & exercises — Node.js, JavaScript, testing, and algorithms</strong></summary>
 
-| Exercise | Concepts |
+| Project / Exercise | Concepts |
 | --- | --- |
+| [Basic Informational Site](https://github.com/jan-christopher-buen/odin-basic-informational-site) | Node.js HTTP server, asynchronous HTML serving, URL routing, and custom 404 |
 | [Knights Travails](https://github.com/jan-christopher-buen/odin-knights-travails) | Graphs, BFS, and shortest paths |
 | [Binary Search Trees](https://github.com/jan-christopher-buen/odin-binary-search-trees) | Tree operations, traversal, and balancing |
 | [HashMap and HashSet](https://github.com/jan-christopher-buen/odin-hashmap) | Hashing, collision chains, and resizing |
