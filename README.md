@@ -1,6 +1,6 @@
 ## Hi, I'm JC 👋
 
-I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive web apps with JavaScript and React, with attention to usability and testing.
+I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive web apps with JavaScript and React, with attention to usability and testing. I'm now learning back-end development with Node.js and have completed my first Node.js project.
 
 - 🎯 Goal: to work as a web developer on a team
 - 🛠️ Workspace: VS Code, Git, GitHub, and Linux (WSL)
@@ -24,8 +24,19 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - **Frontend:** responsive HTML/CSS, JavaScript, React, React Router, and CSS Modules.
+- **Back-end basics:** Node.js HTTP servers, URL routing, asynchronous file reads, and HTTP status codes.
 - **Testing:** Vitest, React Testing Library, user-event, Jest, and Node.js's test runner.
 - **Foundations:** API integration, state management, accessibility, data structures, and algorithms.
+
+### Latest Project & Learning Progress
+
+**[Basic Informational Site](https://github.com/jan-christopher-buen/odin-basic-informational-site)** — my first Node.js project, built with Node's built-in modules, HTML, and CSS.
+
+- Serves Home, About, and Contact pages asynchronously through an HTTP server.
+- Uses explicit URL routing, a custom 404 page, and simple server error handling.
+- Practices back-end fundamentals after the introductory Node.js and debugging lessons in The Odin Project.
+
+I'm continuing through The Odin Project's Node.js curriculum, building on my JavaScript and React projects.
 
 ### Featured Projects
 
