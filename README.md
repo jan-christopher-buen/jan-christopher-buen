@@ -1,6 +1,6 @@
 ## Hi, I'm JC 👋
 
-I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive web apps with JavaScript and React, with attention to usability and testing. I'm now learning back-end development with Node.js and have completed my first Node.js project.
+I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive web apps with JavaScript and React, with attention to usability and testing. I'm now learning back-end development with Node.js, Express, and EJS, and have built and deployed a server-rendered Mini Message Board on Render.
 
 - 🎯 Goal: to work as a web developer on a team
 - 🛠️ Workspace: VS Code, Git, GitHub, and Linux (WSL)
@@ -24,13 +24,21 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - **Frontend:** responsive HTML/CSS, JavaScript, React, React Router, and CSS Modules.
-- **Back-end basics:** Node.js HTTP servers, URL routing, asynchronous file reads, and HTTP status codes.
+- **Back-end:** Node.js, Express routing and middleware, EJS views and partials, form validation, error handling, and in-memory storage.
+- **Deployment:** React apps on Vercel, static sites on GitHub Pages, and an Express app on Render.
 - **Testing:** Vitest, React Testing Library, user-event, Jest, and Node.js's test runner.
 - **Foundations:** API integration, state management, accessibility, data structures, and algorithms.
 
 ### Featured Projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>💬 Mini Message Board</h4>
+      <p>Read and post messages with dedicated detail pages.<br>Server-rendered views, form validation, and escaped plain-text content.<br>Deployed on Render; messages are stored in memory and reset on server restart.<br><sub>Node.js · Express · EJS · CSS · Node.js Test Runner</sub></p>
+      <a href="https://odin-mini-message-board-01ct.onrender.com">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-mini-message-board">Code</a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://odin-shopping-cart-lilac.vercel.app/"><img src="images/shopping-cart.png" alt="Common Goods storefront with its introduction and featured clothing and backpack" width="400" height="240"></a>
