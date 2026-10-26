@@ -1,6 +1,6 @@
 ## Hi, I'm JC 👋
 
-I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive web apps with JavaScript and React, with attention to usability and testing. I'm now learning back-end development with Node.js, Express, and EJS, and have built and deployed a server-rendered Mini Message Board on Render.
+I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive web apps with JavaScript and React, with attention to usability and testing. I'm now learning back-end development with Node.js, Express, EJS, and PostgreSQL. My Mini Message Board runs on Render with persistent PostgreSQL storage on Neon.
 
 - 🎯 Goal: to work as a web developer on a team
 - 🛠️ Workspace: VS Code, Git, GitHub, and Linux (WSL)
@@ -13,6 +13,8 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 ![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -24,9 +26,10 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - **Frontend:** responsive HTML/CSS, JavaScript, React, React Router, and CSS Modules.
-- **Back-end:** Node.js, Express routing and middleware, EJS views and partials, form validation, error handling, and in-memory storage.
-- **Deployment:** React apps on Vercel, static sites on GitHub Pages, and an Express app on Render.
-- **Testing:** Vitest, React Testing Library, user-event, Jest, and Node.js's test runner.
+- **Back-end:** Node.js, Express routing and middleware, EJS views and partials, form validation, and error handling.
+- **Databases:** PostgreSQL, SQL queries, parameterized queries with `pg`, connection pooling, constraints, and schema/seed scripts.
+- **Deployment:** React apps on Vercel, static sites on GitHub Pages, and an Express app on Render connected to Neon PostgreSQL.
+- **Testing:** Vitest, React Testing Library, user-event, Jest, and Node.js's test runner, including PostgreSQL integration tests.
 - **Foundations:** API integration, state management, accessibility, data structures, and algorithms.
 
 ### Featured Projects
@@ -36,7 +39,7 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
     <td width="50%" valign="top">
       <a href="https://odin-mini-message-board-01ct.onrender.com"><img src="images/mini-message-board.png" alt="Mini Message Board showing its welcome heading and community messages" width="400" height="240"></a>
       <h4>💬 Mini Message Board</h4>
-      <p>Read and share a message on the board.<br>Open individual messages with author and date.<br>Includes form validation and in-memory storage.<br><sub>Node.js · Express · EJS · CSS</sub></p>
+      <p>Read and share a message on the board.<br>Open individual messages with author and date.<br>Includes form validation and persistent message storage.<br><sub>Node.js · Express · EJS · PostgreSQL</sub></p>
       <a href="https://odin-mini-message-board-01ct.onrender.com">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-mini-message-board">Code</a>
     </td>
     <td width="50%" valign="top">
