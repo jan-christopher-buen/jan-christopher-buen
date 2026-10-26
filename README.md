@@ -33,39 +33,41 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <a href="https://odin-mini-message-board-01ct.onrender.com"><img src="images/mini-message-board.png" alt="Mini Message Board showing its welcome heading and community messages" width="400" height="240"></a>
       <h4>💬 Mini Message Board</h4>
-      <p>Read and post messages with dedicated detail pages.<br>Server-rendered views, form validation, and escaped plain-text content.<br>Deployed on Render; messages are stored in memory and reset on server restart.<br><sub>Node.js · Express · EJS · CSS · Node.js Test Runner</sub></p>
+      <p>Read and share a message on the board.<br>Open individual messages with author and date.<br>Includes form validation and in-memory storage.<br><sub>Node.js · Express · EJS · CSS</sub></p>
       <a href="https://odin-mini-message-board-01ct.onrender.com">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-mini-message-board">Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://odin-shopping-cart-lilac.vercel.app/"><img src="images/shopping-cart.png" alt="Common Goods storefront with its introduction and featured clothing and backpack" width="400" height="240"></a>
       <h4>🛍️ Common Goods</h4>
       <p>Explore a live catalog of everyday goods.<br>Edit quantities and build a shared cart.<br>Includes route and interaction tests.<br><sub>React · Router · CSS Modules · Vitest</sub></p>
       <a href="https://odin-shopping-cart-lilac.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-shopping-cart">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://odin-memory-card-eta-silk.vercel.app/"><img src="images/memory-card.png" alt="Pokémon Memory showing twelve face-up Pokémon cards and current and best scores" width="400" height="240"></a>
       <h4>🧠 Pokémon Memory</h4>
       <p>Remember Pokémon as the cards shuffle.<br>Track your current and best scores.<br>Includes replay and API retry states.<br><sub>React · JavaScript · Vite · PokéAPI</sub></p>
       <a href="https://odin-memory-card-eta-silk.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-memory-card">Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://odin-cv-application-bice.vercel.app/"><img src="images/cv-application.png" alt="CV Studio showing labeled personal information and education forms" width="400" height="240"></a>
       <h4>📄 CV Application</h4>
       <p>Build a CV from your personal details.<br>Add education and work experience.<br>Preview and edit your information.<br><sub>React · JavaScript · Vite · CSS</sub></p>
       <a href="https://odin-cv-application-bice.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-cv-application">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-battleship/"><img src="images/battleship.png" alt="Battleship showing your fleet and concealed enemy waters" width="400" height="240"></a>
       <h4>🚢 Battleship</h4>
       <p>Place your fleet and find enemy ships.<br>Play against a computer opponent.<br>Or share private local two-player turns.<br><sub>JavaScript · Jest · Webpack</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-battleship/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-battleship">Code</a>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
