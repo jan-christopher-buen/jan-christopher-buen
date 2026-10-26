@@ -54,28 +54,20 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
       <a href="https://odin-memory-card-eta-silk.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-memory-card">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://odin-cv-application-bice.vercel.app/"><img src="images/cv-application.png" alt="CV Studio showing labeled personal information and education forms" width="400" height="240"></a>
-      <h4>📄 CV Application</h4>
-      <p>Build a CV from your personal details.<br>Add education and work experience.<br>Preview and edit your information.<br><sub>React · JavaScript · Vite · CSS</sub></p>
-      <a href="https://odin-cv-application-bice.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-cv-application">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-battleship/"><img src="images/battleship.png" alt="Battleship showing your fleet and concealed enemy waters" width="400" height="240"></a>
       <h4>🚢 Battleship</h4>
       <p>Place your fleet and find enemy ships.<br>Play against a computer opponent.<br>Or share private local two-player turns.<br><sub>JavaScript · Jest · Webpack</sub></p>
       <a href="https://jan-christopher-buen.github.io/odin-battleship/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-battleship">Code</a>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
 <details>
-<summary><strong>More projects — 13 earlier web projects</strong></summary>
+<summary><strong>More projects — 14 web projects</strong></summary>
 
 | Project | Focus | Links |
 | --- | --- | --- |
+| CV Application | React forms and live CV preview | [Live demo](https://odin-cv-application-bice.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-cv-application) |
 | Homepage | Responsive portfolio | [Live demo](https://jan-christopher-buen.github.io/odin-homepage/) · [Code](https://github.com/jan-christopher-buen/odin-homepage) |
 | Weather App | Weather API and async JavaScript | [Live demo](https://jan-christopher-buen.github.io/odin-weather-app/) · [Code](https://github.com/jan-christopher-buen/odin-weather-app) |
 | Todo List | Task organization and localStorage | [Live demo](https://jan-christopher-buen.github.io/odin-todo-list/) · [Code](https://github.com/jan-christopher-buen/odin-todo-list) |
