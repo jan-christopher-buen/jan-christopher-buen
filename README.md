@@ -1,6 +1,6 @@
 ## Hi, I'm JC 👋
 
-I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive web apps with JavaScript and React, with attention to usability and testing. I'm now learning back-end development with Node.js, Express, EJS, and PostgreSQL. My Mini Message Board runs on Render with persistent PostgreSQL storage on Neon.
+I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive web apps with JavaScript and React, and database-backed applications with Node.js, Express, EJS, and PostgreSQL. My latest project, Kanto Pantry, is a deployed grocery inventory app with complete category and item CRUD, server-side validation, and persistent storage on Neon.
 
 - 🎯 Goal: to work as a web developer on a team
 - 🛠️ Workspace: VS Code, Git, GitHub, and Linux (WSL)
@@ -26,9 +26,9 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - **Frontend:** responsive HTML/CSS, JavaScript, React, React Router, and CSS Modules.
-- **Back-end:** Node.js, Express routing and middleware, EJS views and partials, form validation, and error handling.
-- **Databases:** PostgreSQL, SQL queries, parameterized queries with `pg`, connection pooling, constraints, and schema/seed scripts.
-- **Deployment:** React apps on Vercel, static sites on GitHub Pages, and an Express app on Render connected to Neon PostgreSQL.
+- **Back-end:** Node.js, Express routing and middleware, EJS views and partials, complete CRUD flows, server-side form validation, and error handling.
+- **Databases:** PostgreSQL, parameterized SQL with `pg`, connection pooling, one-to-many relationships, unique/check/foreign-key constraints, and repeatable schema/seed scripts.
+- **Deployment:** React apps on Vercel, static sites on GitHub Pages, and Express apps on Render connected to dedicated Neon PostgreSQL databases.
 - **Testing:** Vitest, React Testing Library, user-event, Jest, and Node.js's test runner, including PostgreSQL integration tests.
 - **Foundations:** API integration, state management, accessibility, data structures, and algorithms.
 
@@ -37,10 +37,10 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://odin-mini-message-board-01ct.onrender.com"><img src="images/mini-message-board.png" alt="Mini Message Board showing its welcome heading and community messages" width="400" height="240"></a>
-      <h4>💬 Mini Message Board</h4>
-      <p>Read and share a message on the board.<br>Open individual messages with author and date.<br>Includes form validation and persistent message storage.<br><sub>Node.js · Express · EJS · PostgreSQL</sub></p>
-      <a href="https://odin-mini-message-board-01ct.onrender.com">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-mini-message-board">Code</a>
+      <a href="https://odin-inventory-application-zfj4.onrender.com/"><img src="images/inventory-application.jpg" alt="Kanto Pantry grocery inventory showing category shelves and item counts" width="400" height="240"></a>
+      <h4>🥬 Kanto Pantry · Inventory Application</h4>
+      <p>Manage grocery categories, items, prices, and stock.<br>Includes validated CRUD forms and password-confirmed edits/deletes.<br>Backed by PostgreSQL with relationship constraints and integration tests.<br><sub>Node.js · Express · EJS · PostgreSQL</sub></p>
+      <a href="https://odin-inventory-application-zfj4.onrender.com/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-inventory-application">Code</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://odin-shopping-cart-lilac.vercel.app/"><img src="images/shopping-cart.png" alt="Common Goods storefront with its introduction and featured clothing and backpack" width="400" height="240"></a>
@@ -66,10 +66,11 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 </table>
 
 <details>
-<summary><strong>More projects — 14 web projects</strong></summary>
+<summary><strong>More projects — 15 web projects</strong></summary>
 
 | Project | Focus | Links |
 | --- | --- | --- |
+| Mini Message Board | Express forms, validation, and persistent PostgreSQL messages | [Live demo](https://odin-mini-message-board-01ct.onrender.com) · [Code](https://github.com/jan-christopher-buen/odin-mini-message-board) |
 | CV Application | React forms and live CV preview | [Live demo](https://odin-cv-application-bice.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-cv-application) |
 | Homepage | Responsive portfolio | [Live demo](https://jan-christopher-buen.github.io/odin-homepage/) · [Code](https://github.com/jan-christopher-buen/odin-homepage) |
 | Weather App | Weather API and async JavaScript | [Live demo](https://jan-christopher-buen.github.io/odin-weather-app/) · [Code](https://github.com/jan-christopher-buen/odin-weather-app) |
