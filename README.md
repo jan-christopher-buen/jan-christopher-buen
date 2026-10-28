@@ -39,7 +39,7 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
     <td width="50%" valign="top">
       <a href="https://odin-inventory-application-zfj4.onrender.com/"><img src="images/inventory-application.jpg" alt="Kanto Pantry grocery inventory showing category shelves and item counts" width="400" height="240"></a>
       <h4>🥬 Kanto Pantry · Inventory Application</h4>
-      <p>Manage grocery categories, items, prices, and stock.<br>Includes validated CRUD forms and password-confirmed edits/deletes.<br>Backed by PostgreSQL with relationship constraints and integration tests.<br><sub>Node.js · Express · EJS · PostgreSQL</sub></p>
+      <p>Organize groceries by category.<br>Manage prices and stock quantities.<br>Includes validated forms and admin confirmation.<br><sub>Node.js · Express · EJS · PostgreSQL</sub></p>
       <a href="https://odin-inventory-application-zfj4.onrender.com/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-inventory-application">Code</a>
     </td>
     <td width="50%" valign="top">
