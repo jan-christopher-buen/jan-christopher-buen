@@ -1,9 +1,9 @@
 ## Hi, I'm JC 👋
 
-I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive frontends with JavaScript and React, and database-backed applications with Node.js, Express, EJS, and PostgreSQL. My latest project, Members Only, is a deployed clubhouse message board with Passport authentication, persistent PostgreSQL sessions, and separate member and admin permissions.
+I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive frontends with JavaScript and React, and database-backed applications with Node.js, Express, EJS, and PostgreSQL. My latest project, Folio, is a deployed private file manager with Prisma ORM, PostgreSQL-backed Passport sessions, owner-scoped folders, and private Supabase Storage.
 
 - 🎯 Goal: to work as a web developer on a team
-- 🌱 Current focus: authentication, authorization, secure form handling, and PostgreSQL integration testing in The Odin Project’s Node.js course
+- 🌱 Current focus: Prisma ORM, relational data modeling, private file storage, and integration testing in The Odin Project’s Node.js course
 - 🛠️ Workspace: VS Code, Git, GitHub, and Linux (WSL)
 
 ### Tech Stack & Tools
@@ -16,6 +16,8 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Passport](https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase_Storage-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -30,7 +32,8 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 - **Frontend:** responsive HTML/CSS, JavaScript, React, React Router, and CSS Modules.
 - **Back-end:** Node.js, Express routing and middleware, EJS views and partials, complete CRUD flows, server-side form validation, and error handling.
 - **Authentication & security:** Passport Local, bcrypt password hashing, PostgreSQL-backed sessions, server-side authorization, CSRF protection, and authentication rate limits.
-- **Databases:** PostgreSQL, parameterized SQL with `pg`, connection pooling, one-to-many relationships, unique/check/foreign-key constraints, and repeatable schema/seed scripts.
+- **Databases:** PostgreSQL, Prisma ORM and migrations, parameterized SQL with `pg`, connection pooling, relational models, and database constraints.
+- **File storage:** private Supabase buckets, generated object keys, content-signature validation, owner-authorized downloads, quotas, and failure cleanup.
 - **Deployment:** React apps on Vercel, static sites on GitHub Pages, and Express apps on Render connected to dedicated Neon PostgreSQL databases.
 - **Testing:** Vitest, React Testing Library, user-event, Jest, and Node.js's test runner, including PostgreSQL integration tests.
 - **Foundations:** API integration, state management, accessibility, data structures, and algorithms.
@@ -40,16 +43,16 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://odin-file-uploader-k9d5.onrender.com/"><img src="images/file-uploader.svg" alt="Folio — private files, folders, and cloud storage" width="400" height="240"></a>
+      <h4>📁 Folio · File Uploader</h4>
+      <p>Keep files in a private personal workspace.<br>Organize folders and download your own files.<br>Includes file validation, quotas, and persistent sessions.<br><sub>Express · Prisma · PostgreSQL · Supabase Storage</sub></p>
+      <a href="https://odin-file-uploader-k9d5.onrender.com/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-file-uploader">Code</a>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://odin-members-only-2si5.onrender.com/"><img src="images/members-only.png" alt="Members Only clubhouse homepage with public stories and private membership" width="400" height="240"></a>
       <h4>🔐 Members Only</h4>
       <p>Write stories in a shared clubhouse.<br>Members see authors; admins can delete.<br>Includes persistent sessions and permission tests.<br><sub>Node.js · Express · PostgreSQL · Passport</sub></p>
       <a href="https://odin-members-only-2si5.onrender.com/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-members-only">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://odin-inventory-application-zfj4.onrender.com/"><img src="images/inventory-application.jpg" alt="Kanto Pantry grocery inventory showing category shelves and item counts" width="400" height="240"></a>
-      <h4>🥬 Kanto Pantry · Inventory Application</h4>
-      <p>Organize groceries by category.<br>Manage prices and stock quantities.<br>Includes validated forms and admin confirmation.<br><sub>Node.js · Express · EJS · PostgreSQL</sub></p>
-      <a href="https://odin-inventory-application-zfj4.onrender.com/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-inventory-application">Code</a>
     </td>
   </tr>
   <tr>
@@ -60,19 +63,20 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
       <a href="https://odin-shopping-cart-lilac.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-shopping-cart">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://jan-christopher-buen.github.io/odin-battleship/"><img src="images/battleship.png" alt="Battleship showing your fleet and concealed enemy waters" width="400" height="240"></a>
-      <h4>🚢 Battleship</h4>
-      <p>Place your fleet and find enemy ships.<br>Play against a computer opponent.<br>Or share private local two-player turns.<br><sub>JavaScript · Jest · Webpack</sub></p>
-      <a href="https://jan-christopher-buen.github.io/odin-battleship/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-battleship">Code</a>
+      <a href="https://odin-inventory-application-zfj4.onrender.com/"><img src="images/inventory-application.jpg" alt="Kanto Pantry grocery inventory showing category shelves and item counts" width="400" height="240"></a>
+      <h4>🥬 Kanto Pantry · Inventory Application</h4>
+      <p>Organize groceries by category.<br>Manage prices and stock quantities.<br>Includes validated forms and admin confirmation.<br><sub>Node.js · Express · EJS · PostgreSQL</sub></p>
+      <a href="https://odin-inventory-application-zfj4.onrender.com/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-inventory-application">Code</a>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><strong>More projects — 16 web projects</strong></summary>
+<summary><strong>More projects — 17 web projects</strong></summary>
 
 | Project | Focus | Links |
 | --- | --- | --- |
+| Battleship | JavaScript game logic, computer opponent, local two-player turns, and Jest tests | [Live demo](https://jan-christopher-buen.github.io/odin-battleship/) · [Code](https://github.com/jan-christopher-buen/odin-battleship) |
 | Pokémon Memory | React state, shuffled cards, score tracking, and API retry states | [Live demo](https://odin-memory-card-eta-silk.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-memory-card) |
 | Mini Message Board | Express forms, validation, and persistent PostgreSQL messages | [Live demo](https://odin-mini-message-board-01ct.onrender.com) · [Code](https://github.com/jan-christopher-buen/odin-mini-message-board) |
 | CV Application | React forms and live CV preview | [Live demo](https://odin-cv-application-bice.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-cv-application) |
