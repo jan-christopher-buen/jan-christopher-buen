@@ -1,8 +1,9 @@
 ## Hi, I'm JC 👋
 
-I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive web apps with JavaScript and React, and database-backed applications with Node.js, Express, EJS, and PostgreSQL. My latest project, Kanto Pantry, is a deployed grocery inventory app with complete category and item CRUD, server-side validation, and persistent storage on Neon.
+I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive frontends with JavaScript and React, and database-backed applications with Node.js, Express, EJS, and PostgreSQL. My latest project, Members Only, is a deployed clubhouse message board with Passport authentication, persistent PostgreSQL sessions, and separate member and admin permissions.
 
 - 🎯 Goal: to work as a web developer on a team
+- 🌱 Current focus: authentication, authorization, secure form handling, and PostgreSQL integration testing in The Odin Project’s Node.js course
 - 🛠️ Workspace: VS Code, Git, GitHub, and Linux (WSL)
 
 ### Tech Stack & Tools
@@ -14,6 +15,7 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Passport](https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -27,6 +29,7 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 
 - **Frontend:** responsive HTML/CSS, JavaScript, React, React Router, and CSS Modules.
 - **Back-end:** Node.js, Express routing and middleware, EJS views and partials, complete CRUD flows, server-side form validation, and error handling.
+- **Authentication & security:** Passport Local, bcrypt password hashing, PostgreSQL-backed sessions, server-side authorization, CSRF protection, and authentication rate limits.
 - **Databases:** PostgreSQL, parameterized SQL with `pg`, connection pooling, one-to-many relationships, unique/check/foreign-key constraints, and repeatable schema/seed scripts.
 - **Deployment:** React apps on Vercel, static sites on GitHub Pages, and Express apps on Render connected to dedicated Neon PostgreSQL databases.
 - **Testing:** Vitest, React Testing Library, user-event, Jest, and Node.js's test runner, including PostgreSQL integration tests.
@@ -37,24 +40,24 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://odin-members-only-2si5.onrender.com/"><img src="images/members-only.png" alt="Members Only clubhouse homepage with public stories and private membership" width="400" height="240"></a>
+      <h4>🔐 Members Only</h4>
+      <p>Write stories in a shared clubhouse.<br>Members see authors; admins can delete.<br>Includes persistent sessions and permission tests.<br><sub>Node.js · Express · PostgreSQL · Passport</sub></p>
+      <a href="https://odin-members-only-2si5.onrender.com/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-members-only">Code</a>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://odin-inventory-application-zfj4.onrender.com/"><img src="images/inventory-application.jpg" alt="Kanto Pantry grocery inventory showing category shelves and item counts" width="400" height="240"></a>
       <h4>🥬 Kanto Pantry · Inventory Application</h4>
       <p>Organize groceries by category.<br>Manage prices and stock quantities.<br>Includes validated forms and admin confirmation.<br><sub>Node.js · Express · EJS · PostgreSQL</sub></p>
       <a href="https://odin-inventory-application-zfj4.onrender.com/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-inventory-application">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://odin-shopping-cart-lilac.vercel.app/"><img src="images/shopping-cart.png" alt="Common Goods storefront with its introduction and featured clothing and backpack" width="400" height="240"></a>
       <h4>🛍️ Common Goods</h4>
       <p>Explore a live catalog of everyday goods.<br>Edit quantities and build a shared cart.<br>Includes route and interaction tests.<br><sub>React · Router · CSS Modules · Vitest</sub></p>
       <a href="https://odin-shopping-cart-lilac.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-shopping-cart">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://odin-memory-card-eta-silk.vercel.app/"><img src="images/memory-card.png" alt="Pokémon Memory showing twelve face-up Pokémon cards and current and best scores" width="400" height="240"></a>
-      <h4>🧠 Pokémon Memory</h4>
-      <p>Remember Pokémon as the cards shuffle.<br>Track your current and best scores.<br>Includes replay and API retry states.<br><sub>React · JavaScript · Vite · PokéAPI</sub></p>
-      <a href="https://odin-memory-card-eta-silk.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-memory-card">Code</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://jan-christopher-buen.github.io/odin-battleship/"><img src="images/battleship.png" alt="Battleship showing your fleet and concealed enemy waters" width="400" height="240"></a>
@@ -66,10 +69,11 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 </table>
 
 <details>
-<summary><strong>More projects — 15 web projects</strong></summary>
+<summary><strong>More projects — 16 web projects</strong></summary>
 
 | Project | Focus | Links |
 | --- | --- | --- |
+| Pokémon Memory | React state, shuffled cards, score tracking, and API retry states | [Live demo](https://odin-memory-card-eta-silk.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-memory-card) |
 | Mini Message Board | Express forms, validation, and persistent PostgreSQL messages | [Live demo](https://odin-mini-message-board-01ct.onrender.com) · [Code](https://github.com/jan-christopher-buen/odin-mini-message-board) |
 | CV Application | React forms and live CV preview | [Live demo](https://odin-cv-application-bice.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-cv-application) |
 | Homepage | Responsive portfolio | [Live demo](https://jan-christopher-buen.github.io/odin-homepage/) · [Code](https://github.com/jan-christopher-buen/odin-homepage) |
