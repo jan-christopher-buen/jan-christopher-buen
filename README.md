@@ -43,25 +43,29 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://odin-blog-reader-pi.vercel.app/"><img src="images/blog-api.svg" alt="Margin branded project preview" width="400" height="240"></a>
       <h4>Margin · Blog API</h4>
-      <p>Publish plain-text stories from a separate author studio.<br>Keep drafts private and moderate reader comments.<br>Includes JWT authentication and API integration tests.<br><sub>React · Express · Prisma · PostgreSQL</sub></p>
+      <p>Write stories in a private author studio.<br>Publish drafts and moderate comments.<br>Test JWT access and API permissions.<br><sub>React · Express · Prisma · PostgreSQL</sub></p>
       <a href="https://odin-blog-reader-pi.vercel.app/">Reader</a> · <a href="https://odin-blog-author-seven.vercel.app/">Author studio</a> · <a href="https://github.com/jan-christopher-buen/odin-blog-api">Code</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://odin-file-uploader-k9d5.onrender.com/"><img src="images/file-uploader.svg" alt="Folio private file manager preview" width="400" height="240"></a>
       <h4>Folio · File Uploader</h4>
-      <p>Keep files in a private personal workspace.<br>Organize folders and download your own files.<br>Includes file validation, quotas, and persistent sessions.<br><sub>Express · Prisma · PostgreSQL · Supabase Storage</sub></p>
+      <p>Store files in a private personal space.<br>Organize folders and download files.<br>Validate uploads and enforce quotas.<br><sub>Express · Prisma · PostgreSQL · Supabase Storage</sub></p>
       <a href="https://odin-file-uploader-k9d5.onrender.com/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-file-uploader">Code</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://odin-shopping-cart-lilac.vercel.app/"><img src="images/shopping-cart.png" alt="Common Goods storefront screenshot" width="400" height="240"></a>
       <h4>Common Goods · Shopping Cart</h4>
-      <p>Explore a live catalog of everyday goods.<br>Edit quantities and build a shared cart.<br>Includes route and interaction tests.<br><sub>React · React Router · CSS Modules · Vitest</sub></p>
+      <p>Browse a catalog of everyday goods.<br>Edit quantities and manage your cart.<br>Test routes and shopping interactions.<br><sub>React · Router · CSS Modules · Vitest</sub></p>
       <a href="https://odin-shopping-cart-lilac.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-shopping-cart">Code</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://odin-members-only-2si5.onrender.com/"><img src="images/members-only.png" alt="Members Only clubhouse screenshot" width="400" height="240"></a>
       <h4>Members Only</h4>
-      <p>Write stories in a shared clubhouse.<br>Members see authors; admins can delete.<br>Includes persistent sessions and permission tests.<br><sub>Node.js · Express · PostgreSQL · Passport</sub></p>
+      <p>Share stories in a members clubhouse.<br>Hide authors and moderate messages.<br>Test sessions and role permissions.<br><sub>Node.js · Express · PostgreSQL · Passport</sub></p>
       <a href="https://odin-members-only-2si5.onrender.com/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-members-only">Code</a>
     </td>
   </tr>
