@@ -1,9 +1,9 @@
 ## Hi, I'm JC 👋
 
-I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive frontends with JavaScript and React, and database-backed applications with Node.js, Express, EJS, and PostgreSQL. My latest project, Margin, is a deployed blog with an Express REST API, separate React reader and author apps, JWT authentication, draft publishing, and comment moderation. It builds on my earlier work with PostgreSQL-backed sessions, Prisma ORM, and private file storage.
+I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive React frontends and database-backed applications with Node.js, Express, Prisma, and PostgreSQL. My latest project, Midnight Market, is a deployed photo-tagging game with server-side guess validation, timed rounds, refresh recovery, and a persistent leaderboard. My work also includes Margin's separate reader and author apps, JWT authentication, PostgreSQL-backed sessions, and private file storage.
 
 - 🎯 Goal: to work as a web developer on a team
-- 🌱 Current focus: REST APIs, JWT authentication, server-side authorization, integration testing, and deploying separate frontend and backend apps in The Odin Project’s Node.js course
+- 🌱 Current focus: server-authoritative application state, REST APIs, authentication and authorization, database integrity, integration testing, and production deployment in The Odin Project’s Node.js course
 - 🛠️ Workspace: VS Code, Git, GitHub, and Linux (WSL)
 
 ### Tech Stack & Tools
@@ -36,6 +36,7 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 - **File storage:** private Supabase buckets, generated object keys, content-signature validation, owner-authorized downloads, quotas, and failure cleanup.
 - **Deployment:** React apps on Vercel, static sites on GitHub Pages, and Express apps on Render connected to dedicated Neon PostgreSQL databases.
 - **Testing:** Vitest, React Testing Library, user-event, Jest, and Node.js's test runner, including PostgreSQL integration tests.
+- **Game state & persistence:** normalized image coordinates, server-side guess validation and timing, recoverable rounds, transactional updates, and persistent leaderboards.
 - **Foundations:** API integration, state management, accessibility, data structures, and algorithms.
 
 ### Featured Projects
@@ -43,39 +44,40 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://midnight-market-eight.vercel.app/"><img src="https://raw.githubusercontent.com/jan-christopher-buen/odin-wheres-waldo/d38e6ccc9739cb83961e6a4d9e90cc0fc7c3e283/apps/web/public/market.svg" alt="Midnight Market original illustrated search scene" width="400" height="240"></a>
+      <h4>Midnight Market · Photo Tagging</h4>
+      <p>Find hidden characters in an original scene.<br>Resume timed rounds and submit a score.<br>Validate guesses and timing on the server.<br><sub>React · Express · Prisma · PostgreSQL</sub></p>
+      <a href="https://midnight-market-eight.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-wheres-waldo">Code</a>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://odin-blog-reader-pi.vercel.app/"><img src="images/blog-api.svg" alt="Margin branded project preview" width="400" height="240"></a>
       <h4>Margin · Blog API</h4>
       <p>Write stories in a private author studio.<br>Publish drafts and moderate comments.<br>Test JWT access and API permissions.<br><sub>React · Express · Prisma · PostgreSQL</sub></p>
       <a href="https://odin-blog-reader-pi.vercel.app/">Reader</a> · <a href="https://odin-blog-author-seven.vercel.app/">Author studio</a> · <a href="https://github.com/jan-christopher-buen/odin-blog-api">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://odin-file-uploader-k9d5.onrender.com/"><img src="images/file-uploader.svg" alt="Folio private file manager preview" width="400" height="240"></a>
       <h4>Folio · File Uploader</h4>
       <p>Store files in a private personal space.<br>Organize folders and download files.<br>Validate uploads and enforce quotas.<br><sub>Express · Prisma · PostgreSQL · Supabase Storage</sub></p>
       <a href="https://odin-file-uploader-k9d5.onrender.com/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-file-uploader">Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://odin-shopping-cart-lilac.vercel.app/"><img src="images/shopping-cart.png" alt="Common Goods storefront screenshot" width="400" height="240"></a>
       <h4>Common Goods · Shopping Cart</h4>
       <p>Browse a catalog of everyday goods.<br>Edit quantities and manage your cart.<br>Test routes and shopping interactions.<br><sub>React · Router · CSS Modules · Vitest</sub></p>
       <a href="https://odin-shopping-cart-lilac.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-shopping-cart">Code</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://odin-members-only-2si5.onrender.com/"><img src="images/members-only.png" alt="Members Only clubhouse screenshot" width="400" height="240"></a>
-      <h4>Members Only</h4>
-      <p>Share stories in a members clubhouse.<br>Hide authors and moderate messages.<br>Test sessions and role permissions.<br><sub>Node.js · Express · PostgreSQL · Passport</sub></p>
-      <a href="https://odin-members-only-2si5.onrender.com/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-members-only">Code</a>
-    </td>
   </tr>
 </table>
 
 <details>
-<summary><strong>More projects — 18 web projects</strong></summary>
+<summary><strong>More projects — 19 web projects</strong></summary>
 
 | Project | Focus | Links |
 | --- | --- | --- |
+| Members Only | PostgreSQL-backed sessions, hidden authors, membership roles, and message moderation | [Live demo](https://odin-members-only-2si5.onrender.com/) · [Code](https://github.com/jan-christopher-buen/odin-members-only) |
 | Kanto Pantry · Inventory Application | Express/EJS CRUD, PostgreSQL, validated forms, and admin confirmation | [Live demo](https://odin-inventory-application-zfj4.onrender.com/) · [Code](https://github.com/jan-christopher-buen/odin-inventory-application) |
 | Battleship | JavaScript game logic, computer opponent, local two-player turns, and Jest tests | [Live demo](https://jan-christopher-buen.github.io/odin-battleship/) · [Code](https://github.com/jan-christopher-buen/odin-battleship) |
 | Pokémon Memory | React state, shuffled cards, score tracking, and API retry states | [Live demo](https://odin-memory-card-eta-silk.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-memory-card) |
