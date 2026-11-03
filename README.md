@@ -1,8 +1,8 @@
 ## Hi, I'm JC 👋
 
-I'm an aspiring web developer from the Philippines, learning full stack JavaScript through [The Odin Project](https://www.theodinproject.com/). I build responsive React frontends and database-backed applications with Node.js, Express, Prisma, and PostgreSQL. My latest project, Signal Post, is a deployed private messaging app with secure session authentication, customizable profiles, paginated message history, and messages that persist across API redeploys. My work also includes Midnight Market's server-validated photo-tagging game, Margin's separate reader and author apps, and Folio's private file storage.
+I'm an aspiring web developer from the Philippines, building full-stack JavaScript projects through [The Odin Project](https://www.theodinproject.com/). I work with React, Node.js, Express, Prisma, and PostgreSQL to turn ideas into deployed applications.
 
-- 🛠️ Workspace: VS Code, Git, GitHub, and Linux (WSL)
+My latest project, [Commonroom](https://commonroom-odin-book.vercel.app), is a social community app with directed follow requests, personalized chronological feeds, posts, comments, likes, and read-only guest access. My projects also explore private messaging, server-validated game state, and owner-authorized file storage. I focus on understandable architecture, accessible interfaces, database constraints, and testing authentication and permissions.
 
 ### Tech Stack & Tools
 
@@ -33,7 +33,8 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 - **Databases:** PostgreSQL, Prisma ORM and migrations, parameterized SQL with `pg`, connection pooling, relational models, and database constraints.
 - **File storage:** private Supabase buckets, generated object keys, content-signature validation, owner-authorized downloads, quotas, and failure cleanup.
 - **Deployment:** React apps on Vercel, static sites on GitHub Pages, and Express apps on Render connected to dedicated Neon PostgreSQL databases.
-- **Testing:** Vitest, React Testing Library, user-event, Jest, and Node.js's test runner, including PostgreSQL integration tests.
+- **Testing:** Vitest, React Testing Library, user-event, Jest, and Node.js's test runner, plus SuperTest API checks against isolated PostgreSQL test databases.
+- **Social apps:** directed follow requests, personalized feeds, posts, comments, likes, profile editing, and server-enforced read-only guest sessions.
 - **Messaging:** private one-to-one conversations, participant-only access, stable cursor pagination, manual refresh, and draft preservation after failed sends.
 - **Game state & persistence:** normalized image coordinates, server-side guess validation and timing, recoverable rounds, transactional updates, and persistent leaderboards.
 - **Foundations:** API integration, state management, accessibility, data structures, and algorithms.
@@ -43,24 +44,24 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://commonroom-odin-book.vercel.app/"><img src="images/commonroom.svg" alt="Commonroom branded social community project preview" width="400" height="240"></a>
+      <h4>Commonroom · Odin-Book</h4>
+      <p>Build a circle through directed follow requests.<br>Share posts, comments, and likes in a personal feed.<br>Explore with a restricted read-only guest session.<br><sub>React · Express · Passport · Prisma · PostgreSQL</sub></p>
+      <a href="https://commonroom-odin-book.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-book">Code</a>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://signal-post-rho.vercel.app/"><img src="images/signal-post.svg" alt="Signal Post branded messaging project preview" width="400" height="240"></a>
       <h4>Signal Post · Messaging App</h4>
       <p>Exchange private one-to-one messages.<br>Edit profiles and browse message history.<br>Keep secure sessions across API redeploys.<br><sub>React · Express · Passport · PostgreSQL</sub></p>
       <a href="https://signal-post-rho.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-messaging-app">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://midnight-market-eight.vercel.app/"><img src="https://raw.githubusercontent.com/jan-christopher-buen/odin-wheres-waldo/d38e6ccc9739cb83961e6a4d9e90cc0fc7c3e283/apps/web/public/market.svg" alt="Midnight Market original illustrated search scene" width="400" height="240"></a>
       <h4>Midnight Market · Photo Tagging</h4>
       <p>Find hidden characters in an original scene.<br>Resume timed rounds and submit a score.<br>Validate guesses and timing on the server.<br><sub>React · Express · Prisma · PostgreSQL</sub></p>
       <a href="https://midnight-market-eight.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-wheres-waldo">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://odin-blog-reader-pi.vercel.app/"><img src="images/blog-api.svg" alt="Margin branded project preview" width="400" height="240"></a>
-      <h4>Margin · Blog API</h4>
-      <p>Write stories in a private author studio.<br>Publish drafts and moderate comments.<br>Test JWT access and API permissions.<br><sub>React · Express · Prisma · PostgreSQL</sub></p>
-      <a href="https://odin-blog-reader-pi.vercel.app/">Reader</a> · <a href="https://odin-blog-author-seven.vercel.app/">Author studio</a> · <a href="https://github.com/jan-christopher-buen/odin-blog-api">Code</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://odin-file-uploader-k9d5.onrender.com/"><img src="images/file-uploader.svg" alt="Folio private file manager preview" width="400" height="240"></a>
@@ -72,10 +73,11 @@ I'm an aspiring web developer from the Philippines, learning full stack JavaScri
 </table>
 
 <details>
-<summary><strong>More projects — 20 web projects</strong></summary>
+<summary><strong>More projects — 21 web projects</strong></summary>
 
 | Project | Focus | Links |
 | --- | --- | --- |
+| Margin · Blog API | Separate reader and author apps, draft publishing, comment moderation, and JWT authorization | [Reader](https://odin-blog-reader-pi.vercel.app/) · [Author studio](https://odin-blog-author-seven.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-blog-api) |
 | Common Goods · Shopping Cart | React routing, cart state, quantity controls, and interaction tests | [Live demo](https://odin-shopping-cart-lilac.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-shopping-cart) |
 | Members Only | PostgreSQL-backed sessions, hidden authors, membership roles, and message moderation | [Live demo](https://odin-members-only-2si5.onrender.com/) · [Code](https://github.com/jan-christopher-buen/odin-members-only) |
 | Kanto Pantry · Inventory Application | Express/EJS CRUD, PostgreSQL, validated forms, and admin confirmation | [Live demo](https://odin-inventory-application-zfj4.onrender.com/) · [Code](https://github.com/jan-christopher-buen/odin-inventory-application) |

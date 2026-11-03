@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="title desc">
+  <title id="title">Commonroom — Odin-Book</title>
+  <desc id="desc">Original Commonroom brand illustration with three profile pictures and a community note.</desc>
+  <rect width="800" height="480" fill="#f6f7f7"/>
+  <rect x="48" y="48" width="56" height="56" rx="16" fill="#f5b544"/>
+  <path d="M63 72v15h26V72M67 74V63h18v11M63 79h26M67 87v5m18-5v5" fill="none" stroke="#282c2d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="122" y="88" font-family="Arial,sans-serif" font-size="40" font-weight="700" fill="#282c2d">Commonroom</text>
+  <text x="50" y="153" font-family="Arial,sans-serif" font-size="22" fill="#666e70">Small thoughts. Real connections.</text>
+  <rect x="50" y="190" width="700" height="164" rx="24" fill="#e0eef3"/>
+  <circle cx="118" cy="248" r="35" fill="#fff0cc"/>
+  <circle cx="118" cy="248" r="17" fill="#f5b544"/>
+  <path d="M118 220v6m0 44v6m-28-28h6m44 0h6m-48-20 5 5m30 30 5 5m0-40-5 5m-30 30-5 5" stroke="#bb7920" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="196" cy="248" r="35" fill="#dceff5"/>
+  <path d="M163 252q14-20 32-4t34-2v29h-66z" fill="#398fb7"/>
+  <path d="M163 266q15-17 33-2t33-1v20h-66z" fill="#87c8da"/>
+  <circle cx="217" cy="231" r="7" fill="#f5b544"/>
+  <circle cx="274" cy="248" r="35" fill="#f9e8ed"/>
+  <path d="M274 242c-22-30-32 1-10 5-28 17 7 35 10 11 12 30 36-1 11-11 27-19-5-35-11-5" fill="#da8ba0"/>
+  <circle cx="274" cy="248" r="9" fill="#f8d56c"/>
+  <text x="346" y="242" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#282c2d">A little space for</text>
+  <text x="346" y="276" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#282c2d">everyday connections.</text>
+  <text x="85" y="325" font-family="Arial,sans-serif" font-size="18" fill="#506d79">FOLLOW REQUESTS · PERSONAL FEEDS · READ-ONLY GUESTS</text>
+  <path d="M50 386h700" stroke="#dfe3e3"/>
+  <text x="50" y="425" font-family="Arial,sans-serif" font-size="17" fill="#666e70">REACT / EXPRESS / PASSPORT / PRISMA / POSTGRESQL</text>
+</svg>
