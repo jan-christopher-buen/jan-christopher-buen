@@ -1,8 +1,12 @@
 ## Hi, I'm JC 👋
 
-I'm an aspiring web developer from the Philippines, building full-stack JavaScript projects through [The Odin Project](https://www.theodinproject.com/). I work with React, Node.js, Express, Prisma, and PostgreSQL to turn ideas into deployed applications.
+I'm Jan Christopher Buen, a junior full-stack developer building JavaScript projects through [The Odin Project](https://www.theodinproject.com/). I work with React, Node.js, Express, Prisma, and PostgreSQL to connect useful interfaces with the logic and data behind them.
 
-My latest project, [Commonroom](https://commonroom-odin-book.vercel.app), is a social community app with directed follow requests, personalized chronological feeds, posts, comments, likes, and read-only guest access. My projects also explore private messaging, server-validated game state, and owner-authorized file storage. I focus on understandable architecture, accessible interfaces, database constraints, and testing authentication and permissions.
+**[Visit my portfolio →](https://janchristopherbuen.vercel.app/)** · [Portfolio source](https://github.com/jan-christopher-buen/personal-portfolio)
+
+My latest project is my personal developer portfolio: a responsive React and Vite website with selected project case notes, real application screenshots, engineering decisions, and contact links. It is deployed on Vercel and brings my full-stack learning projects together in one place.
+
+[Commonroom](https://commonroom-odin-book.vercel.app) is a social community app with directed follow requests, personalized chronological feeds, posts, comments, likes, and read-only guest access. My projects also explore private messaging, server-validated game state, and owner-authorized file storage. I focus on understandable architecture, accessible interfaces, database constraints, and testing authentication and permissions.
 
 ### Tech Stack & Tools
 
@@ -73,10 +77,11 @@ My latest project, [Commonroom](https://commonroom-odin-book.vercel.app), is a s
 </table>
 
 <details>
-<summary><strong>More projects — 21 web projects</strong></summary>
+<summary><strong>More projects</strong></summary>
 
 | Project | Focus | Links |
 | --- | --- | --- |
+| Personal Portfolio | React, Vite, responsive CSS, accessible navigation, project case notes, and production deployment | [Live site](https://janchristopherbuen.vercel.app/) · [Code](https://github.com/jan-christopher-buen/personal-portfolio) |
 | Margin · Blog API | Separate reader and author apps, draft publishing, comment moderation, and JWT authorization | [Reader](https://odin-blog-reader-pi.vercel.app/) · [Author studio](https://odin-blog-author-seven.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-blog-api) |
 | Common Goods · Shopping Cart | React routing, cart state, quantity controls, and interaction tests | [Live demo](https://odin-shopping-cart-lilac.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-shopping-cart) |
 | Members Only | PostgreSQL-backed sessions, hidden authors, membership roles, and message moderation | [Live demo](https://odin-members-only-2si5.onrender.com/) · [Code](https://github.com/jan-christopher-buen/odin-members-only) |
