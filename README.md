@@ -1,86 +1,80 @@
 ## Hi, I'm JC 👋
 
-I'm Jan Christopher Buen, a junior full-stack developer building JavaScript projects through [The Odin Project](https://www.theodinproject.com/). I work with React, Node.js, Express, Prisma, and PostgreSQL to connect useful interfaces with the logic and data behind them.
+**Jan Christopher Buen · Web Developer & SEO Specialist**
 
-**[Visit my portfolio →](https://janchristopherbuen.vercel.app/)** · [Portfolio source](https://github.com/jan-christopher-buen/personal-portfolio)
+I build WordPress websites for businesses and full-stack JavaScript applications with React, Express, and PostgreSQL. My current work includes website development, redesign, technical SEO, maintenance, and hosting management.
 
-My latest project is my personal developer portfolio: a responsive React and Vite website with selected project case notes, real application screenshots, engineering decisions, and contact links. It is deployed on Vercel and brings my full-stack learning projects together in one place.
+My background in manufacturing, product engineering, and quality assurance shapes how I troubleshoot, verify behavior, and document decisions.
 
-[Commonroom](https://commonroom-odin-book.vercel.app) is a social community app with directed follow requests, personalized chronological feeds, posts, comments, likes, and read-only guest access. My projects also explore private messaging, server-validated game state, and owner-authorized file storage. I focus on understandable architecture, accessible interfaces, database constraints, and testing authentication and permissions.
+**[Visit my portfolio →](https://janchristopherbuen.vercel.app/)** · [Portfolio source](https://github.com/jan-christopher-buen/personal-portfolio) · [Let's talk](https://janchristopherbuen.vercel.app/#contact)
+
+### Selected Client Work
+
+| Website | My contribution |
+| --- | --- |
+| [Rossi Moves the East](https://rossimovestheeast.com/) | Built the realtor website from scratch; integrated IDX Broker MLS search, protected lead forms, and structured data. Ongoing hosting management. |
+| [Practical Exterior Maintenance](https://practicalexteriormaintenance.com/) | Redesigned an existing website, added ACF-editable content, and worked on local SEO. Ongoing hosting management. |
+| [Nexora Technologies](https://nexorany.com/) | Built the company website from scratch and manage its hosting. My contribution was the company website. |
+
+Additional client work includes [Ironclad Sites](https://ironclad-sites.com/) (custom child theme, ACF, and WooCommerce subscriptions) and [Paver Sealing Academy](https://paversealingacademy.com/) (lead-generation website, application funnel, and GA4 tracking).
 
 ### Tech Stack & Tools
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Passport](https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase_Storage-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| Area | Technologies |
+| --- | --- |
+| Frontend | HTML, CSS, JavaScript, React, React Router |
+| Backend & data | Node.js, Express, Passport, PostgreSQL, Prisma, Supabase Storage |
+| WordPress | WordPress, PHP, WooCommerce, ACF, Elementor |
+| Testing | Jest, Vitest |
+| Tools & deployment | Git, GitHub, VS Code, Linux/WSL, Vite, Webpack, Babel, npm, Vercel, Render, Hostinger |
 
-- **Frontend:** responsive HTML/CSS, JavaScript, React, React Router, and CSS Modules.
-- **Back-end:** Node.js, Express REST APIs, routing and middleware, EJS views and partials, CRUD flows, pagination, server-side validation, and error handling.
-- **Authentication & security:** JWT issuer/audience and expiry validation, Passport Local, bcrypt password hashing, PostgreSQL-backed sessions, ownership and role authorization, exact-origin CORS, CSRF protection for session-based apps, and rate limits.
-- **Databases:** PostgreSQL, Prisma ORM and migrations, parameterized SQL with `pg`, connection pooling, relational models, and database constraints.
-- **File storage:** private Supabase buckets, generated object keys, content-signature validation, owner-authorized downloads, quotas, and failure cleanup.
-- **Deployment:** React apps on Vercel, static sites on GitHub Pages, and Express apps on Render connected to dedicated Neon PostgreSQL databases.
-- **Testing:** Vitest, React Testing Library, user-event, Jest, and Node.js's test runner, plus SuperTest API checks against isolated PostgreSQL test databases.
-- **Social apps:** directed follow requests, personalized feeds, posts, comments, likes, profile editing, and server-enforced read-only guest sessions.
-- **Messaging:** private one-to-one conversations, participant-only access, stable cursor pagination, manual refresh, and draft preservation after failed sends.
-- **Game state & persistence:** normalized image coordinates, server-side guess validation and timing, recoverable rounds, transactional updates, and persistent leaderboards.
-- **Foundations:** API integration, state management, accessibility, data structures, and algorithms.
+### Selected Personal Projects
 
-### Featured Projects
+These applications were built through [The Odin Project](https://www.theodinproject.com/).
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://commonroom-odin-book.vercel.app/"><img src="images/commonroom.svg" alt="Commonroom branded social community project preview" width="400" height="240"></a>
-      <h4>Commonroom · Odin-Book</h4>
-      <p>Build a circle through directed follow requests.<br>Share posts, comments, and likes in a personal feed.<br>Explore with a restricted read-only guest session.<br><sub>React · Express · Passport · Prisma · PostgreSQL</sub></p>
-      <a href="https://commonroom-odin-book.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-book">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://signal-post-rho.vercel.app/"><img src="images/signal-post.svg" alt="Signal Post branded messaging project preview" width="400" height="240"></a>
-      <h4>Signal Post · Messaging App</h4>
-      <p>Exchange private one-to-one messages.<br>Edit profiles and browse message history.<br>Keep secure sessions across API redeploys.<br><sub>React · Express · Passport · PostgreSQL</sub></p>
-      <a href="https://signal-post-rho.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-messaging-app">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://midnight-market-eight.vercel.app/"><img src="https://raw.githubusercontent.com/jan-christopher-buen/odin-wheres-waldo/d38e6ccc9739cb83961e6a4d9e90cc0fc7c3e283/apps/web/public/market.svg" alt="Midnight Market original illustrated search scene" width="400" height="240"></a>
-      <h4>Midnight Market · Photo Tagging</h4>
-      <p>Find hidden characters in an original scene.<br>Resume timed rounds and submit a score.<br>Validate guesses and timing on the server.<br><sub>React · Express · Prisma · PostgreSQL</sub></p>
-      <a href="https://midnight-market-eight.vercel.app/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-wheres-waldo">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://odin-file-uploader-k9d5.onrender.com/"><img src="images/file-uploader.svg" alt="Folio private file manager preview" width="400" height="240"></a>
-      <h4>Folio · File Uploader</h4>
-      <p>Store files in a private personal space.<br>Organize folders and download files.<br>Validate uploads and enforce quotas.<br><sub>Express · Prisma · PostgreSQL · Supabase Storage</sub></p>
-      <a href="https://odin-file-uploader-k9d5.onrender.com/">Live demo</a> · <a href="https://github.com/jan-christopher-buen/odin-file-uploader">Code</a>
-    </td>
-  </tr>
-</table>
+| Project | Focus | Links |
+| --- | --- | --- |
+| **Commonroom** | Social community app with directed follow requests, personalized chronological feeds, posts, comments, likes, and server-enforced read-only guest access. | [Demo](https://commonroom-odin-book.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-book) |
+| **Midnight Market** | Hidden-character game with server-validated guesses and timing, resumable rounds, and a persistent leaderboard. | [Demo](https://midnight-market-eight.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-wheres-waldo) |
+| **Signal Post** | Private one-to-one messaging with participant-only access, paginated history, profile editing, manual refresh, and draft preservation after failed sends. | [Demo](https://signal-post-rho.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-messaging-app) |
+
+Learning demos use free hosting. APIs may take about a minute to wake; provider limits can affect availability.
+
+### Experience
+
+**Web Developer & SEO Specialist · Ironclad Sites & affiliated businesses**  
+March 2026–Present · Part-time, Remote
+
+Develop and customize WordPress websites, redesign existing sites, and manage ongoing maintenance and hosting. Implement technical SEO foundations, including metadata, sitemaps, and structured data.
+
+<details>
+<summary><strong>Previous engineering & quality assurance experience</strong></summary>
+
+| Role | Company | Dates | Responsibilities |
+| --- | --- | --- | --- |
+| Technician 1, Product Engineering (Manufacturing) | Analog Devices Inc. | June 2022–February 2026 | Set up, calibrated, repaired, and maintained automated test handlers; performed first-level verification of yield and QA failures and documented findings. |
+| QA Engineering Aide | onsemi Philippines Inc. | February 2018–March 2021 | Maintained traceable QA documentation, coordinated inspections and audits, and tracked corrective actions to closure. |
+| Technical Assistant | LBG Industries Inc. | October 2013–January 2018 | Verified master samples, tools, and parts against blueprints and maintained product specification records. |
+
+</details>
+
+### Certifications
+
+| Credential | Issuer |
+| --- | --- |
+| [Responsive Web Design](https://www.freecodecamp.org/certification/jcbuen/responsive-web-design-v9) | freeCodeCamp |
+| [JavaScript](https://www.freecodecamp.org/certification/jcbuen/javascript-v9) | freeCodeCamp |
+| [Front-End Development Libraries](https://www.freecodecamp.org/certification/jcbuen/front-end-development-libraries-v9) | freeCodeCamp |
+| [Ahrefs’ Marketing Platform](https://ahrefs.com/academy/certificate/7698a4e0522f43c29026c61e921b49eb) — valid through March 6, 2027 | Ahrefs |
+| [SEO Toolkit Crash Course](https://static.semrush.com/academy/certificates/01cfb57b77/jan-christopher-buen_25.pdf) | Semrush Academy |
+| [Technical SEO and AI Search Essentials with Semrush](https://static.semrush.com/academy/certificates/a730b13fe9/jan-christopher-buen_25.pdf) | Semrush Academy |
 
 <details>
 <summary><strong>More projects</strong></summary>
 
 | Project | Focus | Links |
 | --- | --- | --- |
+| Folio · File Uploader | Private folders, validated uploads, owner-authorized downloads, and storage quotas | [Live demo](https://odin-file-uploader-k9d5.onrender.com/) · [Code](https://github.com/jan-christopher-buen/odin-file-uploader) |
 | Personal Portfolio | React, Vite, responsive CSS, accessible navigation, project case notes, and production deployment | [Live site](https://janchristopherbuen.vercel.app/) · [Code](https://github.com/jan-christopher-buen/personal-portfolio) |
 | Margin · Blog API | Separate reader and author apps, draft publishing, comment moderation, and JWT authorization | [Reader](https://odin-blog-reader-pi.vercel.app/) · [Author studio](https://odin-blog-author-seven.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-blog-api) |
 | Common Goods · Shopping Cart | React routing, cart state, quantity controls, and interaction tests | [Live demo](https://odin-shopping-cart-lilac.vercel.app/) · [Code](https://github.com/jan-christopher-buen/odin-shopping-cart) |
