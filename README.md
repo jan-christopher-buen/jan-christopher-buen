@@ -1,12 +1,12 @@
 ## Hi, I'm JC 👋
 
-**Jan Christopher Buen · Web Developer & SEO Specialist**
+**Jan Christopher Buen · Web Developer | Local SEO**
 
 I build WordPress websites for businesses and full-stack JavaScript applications with React, Express, and PostgreSQL. My current work includes website development, redesign, technical SEO, maintenance, and hosting management.
 
 My background in manufacturing, product engineering, and quality assurance shapes how I troubleshoot, verify behavior, and document decisions.
 
-**[Visit my portfolio →](https://janchristopherbuen.vercel.app/)** · [Portfolio source](https://github.com/jan-christopher-buen/personal-portfolio) · [Let's talk](https://janchristopherbuen.vercel.app/#contact)
+**[Visit my portfolio →](https://janchristopherbuen.vercel.app/)** · [Portfolio source](https://github.com/jan-christopher-buen/personal-portfolio) · [View resume (PDF)](https://janchristopherbuen.vercel.app/jan-christopher-buen-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/jan-christopher-buen-24715117a/) · [Let's talk](https://janchristopherbuen.vercel.app/#contact)
 
 ### Selected Client Work
 
@@ -25,6 +25,7 @@ Additional client work includes [Ironclad Sites](https://ironclad-sites.com/) (c
 | Frontend | HTML, CSS, JavaScript, React, React Router |
 | Backend & data | Node.js, Express, Passport, PostgreSQL, Prisma, Supabase Storage |
 | WordPress | WordPress, PHP, WooCommerce, ACF, Elementor |
+| SEO & analytics | Google Business Profile, Google Search Console, Google Analytics 4 (GA4), Rank Math, Yoast SEO, Semrush |
 | Testing | Jest, Vitest |
 | Tools & deployment | Git, GitHub, VS Code, Linux/WSL, Vite, Webpack, Babel, npm, Vercel, Render, Hostinger |
 
@@ -42,7 +43,7 @@ Learning demos use free hosting. APIs may take about a minute to wake; provider 
 
 ### Experience
 
-**Web Developer & SEO Specialist · Ironclad Sites & affiliated businesses**  
+**Web Developer | Local SEO · Ironclad Sites & affiliated businesses**  
 March 2026–Present · Part-time, Remote
 
 Develop and customize WordPress websites, redesign existing sites, and manage ongoing maintenance and hosting. Implement technical SEO foundations, including metadata, sitemaps, and structured data.
@@ -62,10 +63,12 @@ Develop and customize WordPress websites, redesign existing sites, and manage on
 
 | Credential | Issuer |
 | --- | --- |
+| [CS302: Software Engineering](https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1793935045/0963055547JB.pdf) — issued November 5, 2026; credential ID: 0963055547JB | Saylor University |
 | [Responsive Web Design](https://www.freecodecamp.org/certification/jcbuen/responsive-web-design-v9) | freeCodeCamp |
 | [JavaScript](https://www.freecodecamp.org/certification/jcbuen/javascript-v9) | freeCodeCamp |
 | [Front-End Development Libraries](https://www.freecodecamp.org/certification/jcbuen/front-end-development-libraries-v9) | freeCodeCamp |
 | [Ahrefs’ Marketing Platform](https://ahrefs.com/academy/certificate/7698a4e0522f43c29026c61e921b49eb) — valid through March 6, 2027 | Ahrefs |
+| [SEO Certified](https://app-na2.hubspot.com/academy/achievements/mwqcd44w/en/1/jan-christopher-buen/seo) — valid through April 5, 2027 | HubSpot Academy |
 | [SEO Toolkit Crash Course](https://static.semrush.com/academy/certificates/01cfb57b77/jan-christopher-buen_25.pdf) | Semrush Academy |
 | [Technical SEO and AI Search Essentials with Semrush](https://static.semrush.com/academy/certificates/a730b13fe9/jan-christopher-buen_25.pdf) | Semrush Academy |
 
